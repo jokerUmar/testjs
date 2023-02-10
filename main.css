@@ -116,3 +116,7 @@ main .container {
 .active-point{
     background-color: green;
 }
+
+.result{
+    color:#EA7C69 ;
+}
